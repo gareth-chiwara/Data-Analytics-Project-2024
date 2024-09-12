@@ -1,0 +1,34 @@
+Dataset 1: Employee Performance in a Tech Company;;;;
+;;;;
+Employee_ID;Department;Years_of_Experience;Performance_score;(USD)
+;;;;
+;;;;
+1;IT;5;4;65
+2;HR;10;3;58000
+3;Sales;8;5;75
+4;Finance;3;2;50
+5;Marketing;1.2;4;85
+6;IT;7;3;70
+7;HR;15;4;60
+8;Sales;6;5;78
+9;Finance;9;3;82.000
+10;Marketing;4;2;68000
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Dataset 2: Customer Sales Data for an Online Store;;;;
+;;;;
+Transaction ID;Customer_Age;Product_category;Purchase Amount (USD);Purchase Date
+;25;Electronics;250.00;2023/01/15
+2;34;Apparel;45.99;2023/02/20
+3;45;Home Goods;120.50;2023/03/10
+4;28;Books;20.00;2023/04/18
+5;52;Beauty;80.75;2023/05/23
+6;31;Electronics;450.00;2023/06/04
+7;43;Apparel;65.00;2023/07/14
+8;29;Home Goods;90.20;2023/08/22
+9;36;Books;15.00;2023/09/12
+10;55;Beauty;100.50;2023/10/05
